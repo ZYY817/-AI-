@@ -1,3 +1,0 @@
-[0427/022842.583:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
-[0427/022844.354:ERROR:gles2_cmd_decoder_passthrough.cc(1083)] [GroupMarkerNotSet(crbug.com/242999)!:A0B06400B4670000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
-[0427/022848.404:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
